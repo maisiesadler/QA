@@ -1,0 +1,15 @@
+c:\users\maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\QA.exe.config
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\QA.exe
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\QA.pdb
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\StackExchange.Redis.dll
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\StackExchange.Redis.xml
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\obj\Debug\QA.csprojResolveAssemblyReference.cache
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\obj\Debug\QA.exe
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\obj\Debug\QA.pdb
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\Nancy.dll
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\Nancy.xml
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maisie\documents\visual studio 2015\Projects\QA\QA\bin\Debug\Newtonsoft.Json.xml
